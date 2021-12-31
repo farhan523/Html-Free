@@ -9,40 +9,33 @@ body{
 }
 
 .navbar{
-    /* width: 200px; */
-    height: 100px;
-    background-color:rgb(26, 228, 184);
+    /* width:200px; */
+    height:200px;
+    background-color:aqua;
+    /* margin: 20px; */
+    /* top:20px; */
     
-    /* border: 20px solid black; */
-    /* padding:10px; */
-    width: 200px;
-    top:100px;
-    /* position: relative; */
-    margin: 140px;
-    position: sticky;
-    top: 10px;  
-    
+    /* position:relative; */
+    /* margin-top: 20px; */
+    /* top:100px; */
+    position:fixed;
+    width:100%;
+    top:200px;
+    /* display:none; */
 }
 
 .navbar2{
-    /* width: 200px; */
-    height: 100px;
-    background-color:rgb(225, 235, 86);
-    
-    /* border: 20px solid black; */
-    /* padding:10px; */
-    width: 200px;
-    top:100px;
-    /* position: relative; */
-    margin: 140px;
-    margin-top: 200px;
-    position: sticky;
-    top: 10px;  
+    width:200px;
+    height:200px;
+    background-color:rgb(236, 203, 54);
+   /* position:fixed; */
+   
 }
 
-.navbar h1{
-    /* margin:20px; */
-
-    /* display:inline-block; */
-    position: absolute;
+.navbar3{
+    width:200px;
+    height:200px;
+    background-color:aqua;
+    margin: 20px;
+    /* top:100px; */
 }
